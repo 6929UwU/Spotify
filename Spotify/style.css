@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.fondo {
+    background: rgb(63, 94, 251);
+    background: radial-gradient(circle, rgba(63, 94, 251, 0.7204131652661064) 0%, rgba(252, 70, 107, 0.7232142857142857) 100%);
+}
+
+.playlist {
+    background: rgb(63, 94, 251);
+    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
+}
+
+.nombre-playlist {
+    display: flex;
+}
+
+.imagen-lista img {
+    width: 280px;
+}
+
+.info-playlist {
+    font-size: 25px;
+    margin-left: 40px;
+    color: aliceblue;
+}
+
+.titulos {
+    margin: 10px;
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    border-bottom: solid;
+    color: antiquewhite;
+    font-size: 25px;
+}
+
+.u {
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    list-style: none;
+}
+
+.img {
+    margin: 5px;
+    width: 217px;
+    height: 98px;
+}
+
+.nombre-cancion {
+    font-size: 15px;
+    margin-left: 125px;
+    width: 100px;
+
+}
+
+.album {
+    font-size: 20px;
+    margin-left: 220px;
+}
+
+.agregado1 {
+    font-size: 20px;
+    margin-left: 175px;
+}
+
+.agregado2 {
+    font-size: 20px;
+    margin-left: 268px;
+
+}
+
+.agregado3 {
+    font-size: 20px;
+    margin-left: 250px;
+
+}
+
+.agregado4 {
+    font-size: 20px;
+    margin-left: 250px;
+
+}
+
+.agregado5 {
+    font-size: 20px;
+    margin-left: 170px;
+}
+
+.tiempo1 {
+    font-size: 20px;
+    margin-left: 255px;
+}
+
+.tiempo2 {
+    font-size: 20px;
+    margin-left: 265px;
+}
+
+.tiempo3 {
+    font-size: 20px;
+    margin-left: 266px;
+}
+
+.tiempo4 {
+    font-size: 20px;
+    margin-left: 266px;
+}
+
+.tiempo5 {
+    font-size: 20px;
+    margin-left: 255px;
+}
